@@ -1,0 +1,15 @@
+body {
+   margin: 0; 
+   font-family: sans-serif;
+}
+
+.content {
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+}
+
+.form {
+    margin-top: 5px;
+    text-align: center !important;
+}
